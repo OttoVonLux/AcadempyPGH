@@ -9,6 +9,11 @@ Creating a **Design Portfolio** sounds like an easy task, it isn’t. When faced
 4.	In what order should I put them?
 5.	How will I design my portfolio?
 6.	What medium will I use?
+7.	Hoe will this fit in with my current self branding?
 
-These are all questions a person has to ask him or herself in this task.
+These are all questions a person will to ask him or herself in this task.
+
+It is important to know what your *Personal Brand Identitiy* is before you start this task, most will already know.
+*"Presenting your work is presenting yourself"* Or some variance is uttered over and over again in design courses, and its a really good bit of wisdom to follow.
+
 
