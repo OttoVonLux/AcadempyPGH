@@ -13,7 +13,7 @@ Creating a **Design Portfolio** sounds like an easy task, it isn’t. When faced
 
 These are all questions a person will to ask him or herself in this task.
 
-It is important to know what your *Personal Brand Identitiy* is before you start this task, most will already know.
-*"Presenting your work is presenting yourself"* Or some variance is uttered over and over again in design courses, and its a really good bit of wisdom to follow.
+It is important to know what your __*Personal Brand Identitiy*__ is before you start this task, most will already know.
+__*"Presenting your work is presenting yourself"*__ Or some variance is uttered over and over again in design courses, and its a really good bit of wisdom to follow.
 
 
