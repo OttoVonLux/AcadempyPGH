@@ -1,5 +1,6 @@
 #Markdown Writing for Academy PGH
 ##Creating A Design Portfolio
+######By Daniel Smithson,
 
 Creating a **Design Portfolio** sounds like an easy task, it isn’t. When faced with this essential milestone, one has a list of things to consider.
 
