@@ -12,7 +12,9 @@ Creating a **Design Portfolio** sounds like an easy task, it isn’t. When faced
 6.	What medium will I use?
 7.	How will this fit in with my current self-branding?
 
+
 These are all questions a person will to ask him or herself in this task.
+
 
 It is imperative to know what your __*Personal Brand Identity*__ is before you start this task, most will already know.
 __*"Presenting your work is presenting yourself"*__ or some variance is uttered over and over again in design courses, and its a really good bit of wisdom to follow.
@@ -25,9 +27,8 @@ The next step is describing each project.  Your work will speak to your **end pr
 
 Being able to fluidly, passionately and technically talk about you design and being able to either justify or explain you design choices and technique will give potential employers a better exposure to your ability as a professional designer.
 
-Ben Blumenfield at Co.Design gave this list of best comment practices when creating a portfolio.
 
-"
+Ben Blumenfield at Co.Design gave this list of best comment practices when creating a portfolio.
 
 1. **Project Background:** Set the context for the project. What was the goal of the project? What were your constraints? What was the timeline?
 
@@ -37,12 +38,12 @@ Ben Blumenfield at Co.Design gave this list of best comment practices when creat
 
 4. **Success Metrics:** Why are you showing me this project? Do you have any results that show this project achieved its intended goal?
 
-5. **What You Would Have Done Differently:** Based on the process and outcome is there anything you learned you would have done differently? This is a great way to show growth and introspection. "
+5. **What You Would Have Done Differently:** Based on the process and outcome is there anything you learned you would have done differently? This is a great way to show growth and introspection. (Blumenfeld 2014)
 
 This short breakdown should give you a head start in creating a solid portfolio to show potential employers.
 
 ######Source cited:
-Blumenfeld, B. (n.d.). How To Build A World-Class Design Portfolio. Retrieved July 13, 2016, from https://www.fastcodesign.com/3035190/designers-at-facebook-dropbox-and-pinterest-on-how-to-build-a-world-class-portfolio
+Blumenfeld, B. (July.2014.). How To Build A World-Class Design Portfolio. Retrieved July 13, 2016, from https://www.fastcodesign.com/3035190/designers-at-facebook-dropbox-and-pinterest-on-how-to-build-a-world-class-portfolio
 
 
 
