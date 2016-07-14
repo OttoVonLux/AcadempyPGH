@@ -23,7 +23,7 @@ __*"Presenting your work is presenting yourself"*__ or some variance is uttered 
 
 **A design portfolio should not include only your best works**; that is not to say it should include your worst.  Your design portfolio should have a range of Best to Not the worst. The reason for this is that you want to give you potential employer a good idea of your real range.  If you were to only give them your best work, then you might find yourself seated with a tough project on day one, that you may not be prepared for and, possibly, disappoint your employer. 
 
-The next step is describing each project.  Your work will speak to your **end product* ability, and will showcase your creative talent, but most of the companies doing the hiring are going to want to see you technical faculty.  
+The next step is describing each project.  Your work will speak to your **end product* ability, and will showcase your creative talent, but most of the companies doing the hiring are going to want to see your technical faculty.  
 
 Being able to fluidly, passionately and technically talk about you design and being able to either justify or explain you design choices and technique will give potential employers a better exposure to your ability as a professional designer.
 
