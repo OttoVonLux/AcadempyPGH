@@ -19,19 +19,16 @@ __*"Presenting your work is presenting yourself"*__ or some variance is uttered 
 
 ###*Best Practices*
 
-**A design portfolio should not include only your best works**; that is not to say it should include your worst.  Your design portfolio should have a range of Best to Not the worst. The reason for this is that you want to give you potential employer a good idea of your real range.  
+**A design portfolio should not include only your best works**; that is not to say it should include your worst.  Your design portfolio should have a range of Best to Not the worst. The reason for this is that you want to give you potential employer a good idea of your real range.  If you were to only give them your best work, then you might find yourself seated with a tough project on day one, that you may not be prepared for and, possibly, disappoint your employer. 
 
-If you were to only give them your best work, then you might find yourself seated with a tough project on day one, that you may not be prepared for and thus, possibly, disappoint your employer. You want to start at the low end of comfortable, just outside your comfort zone, but not in the next town over.
-
-The next step is describing, or writing about each project.  Your work will speak to you **end product* ability, and will showcase you creative ability, but most of the companies doing the hiring are going to want to see you technical ability.  
+The next step is describing each project.  Your work will speak to your **end product* ability, and will showcase your creative talent, but most of the companies doing the hiring are going to want to see you technical faculty.  
 
 Being able to fluidly, passionately and technically talk about you design and being able to either justify or explain you design choices and technique will give potential employers a better exposure to your ability as a professional designer.
 
 Ben Blumenfield at Co.Design gave this list of best comment practices when creating a portfolio.
 
-“ Make sure to include the following information for each project where appropriate:
 
-1. **Project Background:** Set the context for the project. What was the goal of the project? What were your constraints? What was the timeline?
+“1. **Project Background:** Set the context for the project. What was the goal of the project? What were your constraints? What was the timeline?
 
 2. **Team and your role:** What was your explicit role, what did you uniquely contribute and who did you work with?
 
@@ -41,6 +38,10 @@ Ben Blumenfield at Co.Design gave this list of best comment practices when creat
 
 5. **What You Would Have Done Differently: **Based on the process and outcome is there anything you learned you would have done differently? This is a great way to show growth and introspection.”
 
-Being able to discuss you creative process fluidly shows strong design skill over all.
+This short breakdown should give you a head start in creating a solid portfolio to show potential employers.
+
+######Source cited:
+Blumenfeld, B. (n.d.). How To Build A World-Class Design Portfolio. Retrieved July 13, 2016, from https://www.fastcodesign.com/3035190/designers-at-facebook-dropbox-and-pinterest-on-how-to-build-a-world-class-portfolio
+
 
 
