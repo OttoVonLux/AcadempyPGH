@@ -27,8 +27,8 @@ Being able to fluidly, passionately and technically talk about you design and be
 
 Ben Blumenfield at Co.Design gave this list of best comment practices when creating a portfolio.
 
-
-“1. **Project Background:** Set the context for the project. What was the goal of the project? What were your constraints? What was the timeline?
+"
+1. **Project Background:** Set the context for the project. What was the goal of the project? What were your constraints? What was the timeline?
 
 2. **Team and your role:** What was your explicit role, what did you uniquely contribute and who did you work with?
 
@@ -36,7 +36,8 @@ Ben Blumenfield at Co.Design gave this list of best comment practices when creat
 
 4. **Success Metrics:** Why are you showing me this project? Do you have any results that show this project achieved its intended goal?
 
-5. **What You Would Have Done Differently: **Based on the process and outcome is there anything you learned you would have done differently? This is a great way to show growth and introspection.”
+5. **What You Would Have Done Differently:** Based on the process and outcome is there anything you learned you would have done differently? This is a great way to show growth and introspection.
+6. ”
 
 This short breakdown should give you a head start in creating a solid portfolio to show potential employers.
 
